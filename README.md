@@ -1,4 +1,4 @@
-<h1>Kali Linux | Windows 10 Homelab with Virtual Box (Hacking into Windows from Linux) Part 1</h1>
+<h1>Kali Linux | Windows 10 Homelab with Virtual Box (Hacking into Windows from Linux) Part 1: Networking</h1>
 
 
  ### [Video Demonstration](https://youtu.be/Zi2vE54___Q)
