@@ -96,7 +96,9 @@ This is to ensure any malware is completely isolated to the sandbox environment,
 </p>
 
 <h2>12. Ping Linux from Windows to confirm both are connected | NOTE: if you try to ping from Linux at this point, it won't go through because the firewall is enabled for Windows. Don't disable as we need it running for Part 2, so just ping from Linux.</h2>
-
+<p align="center">
+<img src="https://i.imgur.com/35Zb42j.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
 
 
 <!--
