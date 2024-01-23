@@ -18,7 +18,7 @@ This is to ensure any malware is completely isolated to the sandbox environment,
 
 <h2>Utilities Used</h2>
 
-- <b>VirtualBox</b> IP Address to Geolocation API
+- <b>VirtualBox</b>
 - Microsoft Windows 10 ISO
 - Kali Linux 
 
